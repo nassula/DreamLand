@@ -1,0 +1,8 @@
+spring:
+  data:
+    rest:
+      default-media-type: application/json
+server:
+  compression:
+    enabled: 'true'
+  port: '8000'
